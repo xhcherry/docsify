@@ -21,4 +21,4 @@
 
 **双开或者多开兼容性高**
 
-![](../../.gitbook/assets/oxGTA.png)
+![](/.gitbook/assets/oxGTA.png)

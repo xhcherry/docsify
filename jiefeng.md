@@ -1,50 +1,50 @@
 # ❌ 解封教程
 
-**访问r星官网并登陆**[**https://socialclub.rockstargames.com/**](https://socialclub.rockstargames.com/)
+**访问r星官网并登陆**[https://socialclub.rockstargames.com/](https://socialclub.rockstargames.com/)
 
 **登陆成功后选择右上角的头像，然后点击帮助，支持**
 
-****![](<.gitbook/assets/image (126).png>)****
+![](/.gitbook/assets/image%20(126).png)
 
 **在搜索框中输入删除账户并搜索**
 
-****![](<.gitbook/assets/image (137).png>)****
+![](.gitbook/assets/image%20(137).png)
 
 **按下面图示依次点击**
 
-****![](<.gitbook/assets/image (153).png>)****
+![](/.gitbook/assets/image%20(153).png)
 
-****![](<.gitbook/assets/image (118).png>)****
+![](/.gitbook/assets/image%20(118).png)
 
-****![](<.gitbook/assets/image (166).png>)****
+![](/.gitbook/assets/image%20(166).png)
 
-****![](<.gitbook/assets/image (141).png>)****
+![](/.gitbook/assets/image%20(141).png)
 
 **注：若出现下方情况用           vpn或者机场（俗称翻墙）或者给rockstar平台加速         刷新页面重新提交**
 
-****![](<.gitbook/assets/image (135).png>)****
+![](/.gitbook/assets/image%20(135).png)
 
 **点击提交请求后若成功则会出现以下界面**
 
-****![](<.gitbook/assets/image (133).png>)****
+![](/.gitbook/assets/image%20(133).png)
 
 **此时不用管这个，看邮箱，邮箱会立即收到两封邮件**
 
-****![](<.gitbook/assets/image (176).png>)****
+![](/.gitbook/assets/image%20(176).png)
 
 **进入\[Rockstar Support]Re这封邮件，点击回复**
 
-****![](<.gitbook/assets/image (151).png>)****
+![](/.gitbook/assets/image%20(151).png)
 
 **出现以下界面（注意以后回信都得保留原始邮件内容，别把下面内容删掉）**
 
 **输入：“我是本人，请删除我的账户”并发送**
 
-****![](<.gitbook/assets/image (171).png>)****
+![](/.gitbook/assets/image%20(171).png)
 
 **等待几小时或1天或两三天后，邮件会有以下内容来件**
 
-****![](<.gitbook/assets/image (132).png>)****
+![](/.gitbook/assets/image%20(132).png)
 
 **复制以下所有内容并发送（将xxxxxx换成你自己的）**
 
@@ -72,6 +72,6 @@
 
 **输入序列号激活那一步，填写卡网得到的序列号即可（若提示激活不了/激活码无效请更换不同加速器多试试，不是序列号的问题，切记查看输入进去的序列号是否存在空格）**
 
-**序列号购买地址：**[**https://xhaocherry.xyz/**](https://xhaocherry.xyz/) **进入网站后选择黑号/解封/服务 -> steam版解封序列号**
+**序列号购买地址：**[https://xhaocherry.xyz/](https://xhaocherry.xyz/) **进入网站后选择黑号/解封/服务 - steam版解封序列号**
 
 **至此，解封步骤完成**

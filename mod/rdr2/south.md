@@ -51,4 +51,4 @@
 
 **辅助功能过于强大 被盯上的玩家即会永久遭殃 \[ 可踢卡单 可追战局 可崩溃 ]**
 
-![](../../.gitbook/assets/South.jpg)
+![](/.gitbook/assets/South.jpg)

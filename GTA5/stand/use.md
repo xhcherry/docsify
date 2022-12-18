@@ -20,7 +20,7 @@
 
 若你是常规版或终极版则点击下方升级链接教程进行升级，升级完成后再继续下方安装注入
 
-# [stand版本升级](GTA5/stand/stand-ban-ben-sheng-ji.md)
+## [stand版本升级](GTA5/stand/stand-ban-ben-sheng-ji.md)
 
 ## 安装注入
 
@@ -80,5 +80,5 @@
 
 <mark style="color:yellow;"><mark style="color:orange;">**恶意行为:随意使用全局崩溃/恶搞(当你使用了全局崩溃崩溃了Stand的用户,他可以去举报你，至于怎么处置得看作者,可能会封禁你的账户又或者不受理;同理你也可以在被Stand用户崩溃后去举报)**<mark style="color:orange;"></mark>
 
-上述操作均有用户自己担责有异议自行联系stand管理员
+**上述操作均有用户自己担责有异议自行联系stand管理员**
 

@@ -5,4 +5,4 @@
     
 * ## [RDR2](mod/rdr2/README.md)
    
-* ## [buy | 点击购买](https://xhaocherry.xyz/)
+* ## [buy | 点击购买辅助](https://xhaocherry.xyz/)

@@ -1,9 +1,7 @@
 # OXcheats
 
-[使用教程](/GTA5/midnight/use.md)
+[使用教程](/GTA5/oxcheats/use.md)
 
-[解绑教程](/GTA5/midnight/hwid.md)
+[错误提示](/GTA5/oxcheats/cuowutishi.md)
 
-[做任务时卡bug](/GTA5/midnight/renwubug.md)
-
-[注入时错误提示](/GTA5/midnight/cuowutishi.md)
+[改密/错误提示](/GTA5/oxcheats/gaimihwid.md)

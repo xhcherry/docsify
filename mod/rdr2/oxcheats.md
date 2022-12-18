@@ -16,4 +16,4 @@
 
 **不错的防护与崩溃**
 
-![](../../.gitbook/assets/oxRDR.png)
+![](/.gitbook/assets/oxRDR.png)

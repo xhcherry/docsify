@@ -26,11 +26,13 @@
 
 注入成功后游戏中会提示welcome to sasavn
 
-**`F4` 呼出/隐藏菜单**
 
-**更换电脑（包括第一次注入时）会显示HWID改变，选择**<mark style="color:green;">**Reset HWID**</mark>**即可**
+
+**更换电脑（包括第一次注入时）会显示HWID改变，选择Reset HWID即可**
 
 ![](<../../.gitbook/assets/image (139).png>)
+
+**`F4` 呼出/隐藏菜单**
 
 **方向键`↑`  `↓` 控制上下**
 
@@ -40,4 +42,4 @@
 
 ## 设置中文
 
-**依次选择 **<mark style="color:green;">**Settings-Language-Chinese**</mark>
+在游戏菜单中依次选择Settings-Language-Chinese

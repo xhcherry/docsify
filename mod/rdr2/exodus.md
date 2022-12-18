@@ -44,4 +44,4 @@
 
 **具备刷出动物/刷出攻击者/给自己刷保镖**
 
-![](../../.gitbook/assets/Eeodus功能图.png)
+![](/.gitbook/assets/Eeodus功能图.png)

@@ -32,6 +32,6 @@
 
 **先在售后群下载中文文件**
 
-**将其解压后放到如下路径：**<mark style="color:red;">**我的文档>>Rebound>>Translations文件夹内**</mark>
+将其解压后放到如下路径：我的文档>>Rebound>>Translations文件夹内
 
 **在游戏中呼出菜单后依次按：settings-translation-chinese确定即可**
