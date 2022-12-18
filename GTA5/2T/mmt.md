@@ -112,11 +112,11 @@ Traveller永久下载链接(右上角下载) https://travellua.fun/&#x20;
 
 ![](<../../.gitbook/assets/image (105).png>)
 
-请删除 %appdata%\PopstarDevs\2Take1Menu\scripts\TravellerLuaScript\ini文件夹内的 window\_a.ini文件之后从头来过
+请删除 %appdata%\PopstarDevs\2Take1Menu\scripts\TravellerLuaScript\ini文件夹内的 window_a.ini文件之后从头来过
 
 
 
-卡密文件存放位置：%appdata%\PopstarDevs\2Take1Menu\scripts\MmtLuaScript\ini 里面的window\_a.ini文件即为卡密文件，群文件已上传示例，请按照格式填写
+卡密文件存放位置：%appdata%\PopstarDevs\2Take1Menu\scripts\MmtLuaScript\ini 里面的window_a.ini文件即为卡密文件，群文件已上传示例，请按照格式填写
 
 照片格式
 

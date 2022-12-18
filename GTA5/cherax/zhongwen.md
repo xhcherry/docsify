@@ -4,7 +4,7 @@
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
-**找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
+**找到Cherax文件夹**
 
 **打开其中的translations文件夹**
 

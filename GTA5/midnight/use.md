@@ -1,20 +1,20 @@
 # 使用教程
 
-**进入午夜官网：**[**https://midnight.im/**](https://midnight.im/)
+**进入午夜官网：**[https://midnight.im/](https://midnight.im/)
 
-<mark style="color:red;">注册的时候不能有中文跟特殊字符，不然会注册/注入不了</mark>
+注册的时候不能有中文跟特殊字符，不然会注册/注入不了
 
-<mark style="color:red;"></mark>![](<../../.gitbook/assets/image (82).png>)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/image (82).png>)
 
 按要求输入信息之后点击红圈内按钮完成注册
 
-<mark style="color:red;"></mark>![](<../../.gitbook/assets/image (25).png>)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/image (25).png>)
 
-<mark style="color:red;"></mark>![](<../../.gitbook/assets/image (26).png>)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/image (26).png>)
 
 在下图框框中输入购买的激活码并激活
 
-<mark style="color:red;"></mark>![](<../../.gitbook/assets/image (78).png>)<mark style="color:red;"></mark>
+![](<../../.gitbook/assets/image (78).png>)
 
 激活完成后在售后群下载安装器
 
@@ -46,9 +46,9 @@
 
 ![](<../../.gitbook/assets/image (36).png>)
 
-&#x20;** `INS` 呼出/隐藏菜单**
+ `INS` 呼出/隐藏菜单
 
-&#x20;<mark style="color:red;">****</mark>** `鼠标点击` 操控菜单**
+ `鼠标点击` 操控菜单
 
 ## 中文设置
 

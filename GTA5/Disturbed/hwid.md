@@ -1,6 +1,6 @@
 # 解绑教程
 
-**解绑地址：**[**https://w1tch.net/**](https://w1tch.net/)
+**解绑地址：**[https://w1tch.net/](https://w1tch.net/)
 
 **解绑冷却时间为每7天免费解绑一次（VIP版可绑定3台电脑）**
 

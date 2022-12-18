@@ -10,8 +10,8 @@
 
 **如果是，尝试修改"我的文档"路径**
 
-**WIN10系统修改教程**[**https://jingyan.baidu.com/article/148a1921a96ad24d71c3b1ae.html**](https://jingyan.baidu.com/article/148a1921a96ad24d71c3b1ae.html)
-
+**系统修改路径教程**[https://jingyan.baidu.com/article/148a1921a96ad24d71c3b1ae.html](https://jingyan.baidu.com/article/148a1921a96ad24d71c3b1ae.html)
+**系统修改用户名教程**[windows修改用户名](/qita/yonghuming.md)\
 **出现这种情况是因为 系统文档路径是中文**\
 **右键-属性-位置**
 
