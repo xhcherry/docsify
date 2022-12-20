@@ -2,8 +2,7 @@
 
 修改日期：12.20
 
-<button class="docsify-tabs_tab docsify-tabs_tab--active" data-tab="GTA5">GTA5</button>
-<div class="docsify-tabs_content" docsify-tabs_content="GTA5">
+GTA5
 
 |     菜单    | 状态 |  可用系统/解绑时间 |  版本(更新时间)    |
 | :---------: |:---:|:-----------------:|:-----------------: |
@@ -50,7 +49,6 @@
 | Øzark扎克  |  跑路|||
 |Paragon守望者|  跑路|||
 |  Luna露娜  |  跑路|||
-</div>
 
 RDR2
 
@@ -66,6 +64,7 @@ RDR2
 |   bbc  | 跑路 |||
 |   毒液  |跑路 |||
 |   雷神  |跑路 |||
+
 
 若有状态不匹配或过时很久请联系QQ：2036201905及时修改
 
