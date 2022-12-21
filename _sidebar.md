@@ -103,10 +103,10 @@
   * [SasaVN](GTA5/sasavn/README.md)
     * [使用教程](GTA5/sasavn/use.md)
     * [解绑教程](GTA5/sasavn/hwid.md)
-  * [OXcheats](GTA5/oxcheats/README.md)
-    * [使用教程](GTA5/oxcheats/use.md)
-    * [错误提示](GTA5/oxcheats/cuowutishi.md)
-    * [改密/解绑教程](GTA5/oxcheats/gaimihwid.md)
+  * [0Xcheats](GTA5/0xcheats/README.md)
+    * [使用教程](GTA5/0xcheats/use.md)
+    * [错误提示](GTA5/0xcheats/cuowutishi.md)
+    * [改密/解绑教程](GTA5/0xcheats/gaimihwid.md)
   * [表演者](GTA5/biaoyanzhe.md)
   * [Fragment-碎片](GTA5/fragment/README.md)
     * [使用教程](GTA5/fragment/use.md)
@@ -125,9 +125,9 @@
   * [Prime-至尊](RDR2/prime/README.md)
     * [使用教程](RDR2/prime/use.md)
     * [解绑教程](RDR2/prime/hwid.md)
-  * [OXcheats](RDR2/oxcheats/README.md)
-    * [使用教程](GTA5/oxcheats/use.md)
-    * [改密/解绑](GTA5/oxcheats/gai-mi-hwid.md)
+  * [0Xcheats](GTA5/0xcheats/README.md)
+    * [使用教程](GTA5/0xcheats/use.md)
+    * [改密/解绑](GTA5/0xcheats/gai-mi-hwid.md)
 
 * 其他游戏辅助教程 
 
