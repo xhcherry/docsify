@@ -32,7 +32,7 @@
 * 🔨 解压教程/辅助出现错误必看
   * [下载辅助压缩包解压教程](solve/jieya.md)
   * [注入失败/游戏闪退](solve/bikan.md)
-* [❌ 解封教程](jiefeng.md)
+* [❌ 解封教程](wiki/jiefeng.md)
 
 * GTA5教程
   * [2Take1](GTA5/2T/README.md)
@@ -123,6 +123,9 @@
   * [Exodus](RDR2/exodus/README.md)
     * [使用教程](RDR2/exodus/use.md)
     * [解绑教程](RDR2/exodus/hwid.md)
+  * [Oregon](RDR2/Oregon/README.md)
+    * [使用教程](RDR2/Oregon/use.md)
+    * [解绑教程](RDR2/Oregon/hwid.md)
   * [Prime-至尊](RDR2/prime/README.md)
     * [使用教程](RDR2/prime/use.md)
     * [解绑教程](RDR2/prime/hwid.md)

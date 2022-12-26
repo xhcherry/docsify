@@ -1,6 +1,8 @@
 # RDR2
-[Exodus](exodus.md)
+[Exodus](mod/rdr2/exodus.md)
 
-[Prime-至尊](prime.md)
+[Oregon](mod/rdr2/Oregon.md)
 
-[0Xcheats](oxcheats.md)
+[Prime-至尊](mod/rdr2/prime.md)
+
+[0Xcheats](mod/rdr2/oxcheats.md)
