@@ -25,6 +25,7 @@
     * [表演者/暗星/xipro](mod/gta5/Chinacheats.md)
   * [RDR2](mod/rdr2/README.md)
     * [Exodus](mod/rdr2/exodus.md)
+    * [Oregon](mod/rdr2/oregon.md)
     * [Prime-至尊](mod/rdr2/prime.md)
     * [OXcheats](mod/rdr2/oxcheats.md)
   * [buy | 点击购买](https://xhaocherry.xyz/)
