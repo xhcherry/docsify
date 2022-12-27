@@ -1,9 +1,7 @@
 # X-Force
 
-[使用教程](/GTA5/midnight/use.md)
+[使用教程](/GTA5/x-force/use.md)
 
-[解绑教程](/GTA5/midnight/hwid.md)
+[解绑教程](/GTA5/x-force/hwid.md)
 
-[做任务时卡bug](/GTA5/midnight/renwubug.md)
-
-[注入时错误提示](/GTA5/midnight/cuowutishi.md)
+[更换音乐崩的音乐](/GTA5/x-force/yinyuebeng.md)

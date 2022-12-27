@@ -22,7 +22,7 @@
 
 系统用户名不可以使用中文（部分辅助会乱码）
 
-## [windows修改中文用户名](../qita/windows-xiu-gai-zhong-wen-yong-hu-ming.md)
+## [windows修改中文用户名](/qita/yonghuming.md)
 
 在注入后出现问题请看以下步骤：
 

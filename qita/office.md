@@ -6,7 +6,7 @@
 
 如果你不会解压看这解压教程：
 
-[解压教程](../solve/jieya.md)
+[解压教程](/solve/jieya.md)
 
 解压完成后打开office tool plus
 
