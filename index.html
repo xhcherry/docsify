@@ -25,6 +25,13 @@
             coverpage: true,
 
             loadSidebar: true,
+            tabs: {
+                persist: true,      // default
+                sync: true,      // default
+                theme: 'classic', // default
+                tabComments: true,      // default
+                tabHeadings: true       // default
+            },
             alias: {
                 '/.*/_sidebar.md': '/_sidebar.md',
             },
@@ -79,6 +86,7 @@
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <!-- 全文搜索 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 
