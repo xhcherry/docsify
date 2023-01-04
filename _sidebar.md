@@ -147,6 +147,7 @@
 * 其他
 
   * [键盘键值表](qita/键盘.md)
+  * [加速器时长白嫖](qita/jiasuqi.md)
   * [Microsoft office激活教程](qita/office.md)
   * [windows修改中文用户名](qita/yonghuming.md)
   * [windows关闭杀毒保护](qita/guanshadu.md)
