@@ -4,7 +4,7 @@
 
 发卡网：[https://xhaocherry.xyz/](https://xhaocherry.xyz/)
 
-<!-- tab:start -->
+<!-- tabs:start -->
 
 #### **GTA5**
 
@@ -93,4 +93,4 @@ Fikit：[https://www.fikitcheats.com](https://www.fikitcheats.com)
 
 ~~毒液：[https://venom.menu/](https://venom.menu/)~~
 
-<!-- tab:end -->
+<!-- tabs:end -->
