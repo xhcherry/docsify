@@ -1,6 +1,6 @@
 # ❌ 解封教程
 
-在本店购买序列号后可联系客服免费代解封
+在本店[xhaocherry.xyz](xhaocherry.xyz)购买序列号后可联系客服qq:2036201905免费代解封
 
 **访问r星官网并登陆**[https://socialclub.rockstargames.com/](https://socialclub.rockstargames.com/)
 
