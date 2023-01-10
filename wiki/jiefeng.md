@@ -8,7 +8,7 @@
 
 **在搜索框中输入删除账户并搜索**
 
-![](.gitbook/assets/image%20(137).png)
+![](/.gitbook/assets/image%20(137).png)
 
 **按下面图示依次点击**
 
