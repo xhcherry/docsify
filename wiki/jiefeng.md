@@ -1,5 +1,7 @@
 # ❌ 解封教程
 
+在本店购买序列号后可联系客服免费代解封
+
 **访问r星官网并登陆**[https://socialclub.rockstargames.com/](https://socialclub.rockstargames.com/)
 
 **登陆成功后选择右上角的头像，然后点击帮助，支持**
